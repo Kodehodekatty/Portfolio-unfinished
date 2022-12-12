@@ -1,5 +1,5 @@
 import "./App.css";
-import Background from "./components/Background";
+import ReactTaskState from "./components/ReactTaskState";
 import Navbar from "./components/Navbar";
 import { ShowImage } from "./components/Background";
 
@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <div>
-        <Background />
+        <ReactTaskState />
       </div>
     </div>
   );
