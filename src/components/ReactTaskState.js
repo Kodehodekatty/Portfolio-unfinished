@@ -9,7 +9,7 @@ const face = "<face>";
 const body = "<body>";
 const footer = "<footer>";
 
-export default function Background() {
+export default function ReactTaskState() {
   const [text, setText] = useState("");
 
   return (
