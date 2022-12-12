@@ -6,9 +6,6 @@ import { ShowImage } from "./components/Background";
 function App() {
   return (
     <div>
-    <div>
-    <Navbar />
-    </div>
       <div>
         <Background />
       </div>
